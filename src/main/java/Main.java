@@ -1,24 +1,7 @@
+import org.w3c.dom.ls.LSInput;
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        //1번    Hello World!를 출력하시오.
-        System.out.println("Hello World!");
-
-        //2번 강한친구 육군 2번
-
-        System.out.println("강한친구 대한육군");
-        System.out.println("강한친구 대한육군");
-
-        //3번
-        System.out.println("\\    /\\");
-        System.out.println(" )  ( ')");
-        System.out.println("(  /  )");
-        System.out.println(" \\(__)|");
-
-        //4번
-
-
-
-
 
     }
 }
