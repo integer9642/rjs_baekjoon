@@ -1,6 +1,6 @@
 import org.w3c.dom.ls.LSInput;
 import java.util.Scanner;
-
+//입출력과 사칙연산
 public class phase1 {
     public static void main(String[] args) {
        /*
